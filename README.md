@@ -72,3 +72,18 @@ Before running the application, you need to configure the camera feed:
 
 Camera URL: Update the camera_url variable in the app.py file with your actual camera feed URL.
 Crowd Density Thresholds: Modify the low_density_threshold and medium_density_threshold variables to fine-tune the crowd density levels.
+
+## Usage
+To run the application:
+
+ Start the Streamlit Application:
+ ```bash
+ streamlit run app.py
+ ```
+
+Access the Web Interface:
+Open your browser and navigate to http://localhost:8501 to view the live feed and crowd analysis.
+Stopping the Application:
+
+Click the "Stop" button on the Streamlit interface to stop the application.
+Alternatively, press Ctrl + C in the terminal.
