@@ -56,7 +56,7 @@ Follow these steps to set up the project:
    git clone https://github.com/ShivamSharma888/OpenCVSimulation
    cd OpenCVSimulation
    ```
-Create a Virtual Environment (Recommended):
+2. Create a Virtual Environment (Recommended):
    ```bash
    python3 -m venv venv
    source venv/bin/activate
