@@ -60,7 +60,7 @@ Follow these steps to set up the project:
    ```bash
    python3 -m venv venv
    source venv/bin/activate
-   # On Windows use `venv\Scripts\activat'
+   # On Windows use `venv\Scripts\activate'
    ```
 3. Install Dependencies:
    ```bash
