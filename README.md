@@ -62,3 +62,13 @@ Follow these steps to set up the project:
    source venv/bin/activate
    # On Windows use `venv\Scripts\activat'
    ```
+3. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Configuration
+Before running the application, you need to configure the camera feed:
+
+Camera URL: Update the camera_url variable in the app.py file with your actual camera feed URL.
+Crowd Density Thresholds: Modify the low_density_threshold and medium_density_threshold variables to fine-tune the crowd density levels.
