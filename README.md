@@ -10,10 +10,6 @@ This project implements a real-time crowd detection system using a live video fe
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Advanced Usage](#advanced-usage)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
