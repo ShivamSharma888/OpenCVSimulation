@@ -81,9 +81,15 @@ To run the application:
  streamlit run app.py
  ```
 
-Access the Web Interface:
+## Access the Web Interface:
 Open your browser and navigate to http://localhost:8501 to view the live feed and crowd analysis.
 Stopping the Application:
 
 Click the "Stop" button on the Streamlit interface to stop the application.
 Alternatively, press Ctrl + C in the terminal.
+
+## Acknowledgments
+
+OpenCV: For providing robust computer vision tools.
+Streamlit: For enabling rapid web application development.
+Community: For continuous support and contributions.
